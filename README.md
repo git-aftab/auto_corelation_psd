@@ -34,3 +34,12 @@ subplot(3,2,5);
 plot(fw2);
 
 ```
+
+#Output Graph
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/49cfb41d-c5e7-44a8-80b5-3f6a3b8b4b48" />
+
+
+
+
+``
+
